@@ -1,10 +1,10 @@
 # Community Challenge : Build Day 2020
 
-Create a tutorial and win $1,33,000. Follow the steps below.
+Create a tutorial and win $1,33,000. Follow the steps below 🔻 🔻 🔻
 
 
 
-## Installation
+## Steps
 
 ### 1. ✍️ Written tutorial on GitHub (max 4000 words)
 
@@ -32,6 +32,34 @@ Open up an account and post what you built in the DevPost: [Click HERE](https://
 
 To win extra prizes from DevC Dhaka, also [fill up this form](https://xho.to/bday2020).
 
+
+## Prizes
+
+### Global First Place - English Tutorial for Beginners
+• $10,000 USD
+• Oculus headset (ARV: $399USD; 1 per individual, 4 max per Org or Team)
+
+### Global Second Place - English Tutorial for Beginners
+• $7,000 USD
+
+### Global First Place - English Tutorial for Advanced
+• $10,000 USD
+• Oculus headset (ARV: $399USD; 1 per individual, 4 max per Org or Team)
+
+### Global Second Place - English Tutorial for Advanced
+• $7,000 USD
+
+### Regional - English Tutorial for Beginners (21)
+• $2,000 USD
+
+
+### Regional - English Tutorial for Advanced (21)
+• $2,000 USD
+
+
+## More
+
+[Watch this video](https://www.facebook.com/groups/DevCDhaka/permalink/2085599458237190/) to know more in Bangla
 
 
 ## Contributing
